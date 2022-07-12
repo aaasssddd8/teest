@@ -2465,13 +2465,13 @@ a.g-Btn--secondary:hover {
   color: #6c3;
 }
 .DLExtraInfo-virusTotalImage {
-  background-image: url("virustotal.png");
+  background-image: url("https://www.linkpicture.com/q/virustotal.png");
 }
 .DLExtraInfo-uploadIsp .DLExtraInfo-sectionGraphicCenter {
   background-image: url("dt.svg");
 }
 .DLExtraInfo-accountStatusImage {
-  background-image: url("https://rawcdn.githack.com/aaasssddd8/teest/49e648dd081f8f60537e22cd2f865c0616dea838/mf_round.svg");
+  background-image: url("mf_round.svg");
 }
 .DLExtraInfo-referrer .DLExtraInfo-sectionIcon {
   background-image: url("gh.svg");
